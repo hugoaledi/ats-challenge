@@ -1,0 +1,11 @@
+dist
+src/ATSChallenge.Application/bin
+src/ATSChallenge.Application/obj
+src/ATSChallenge.Domain/bin
+src/ATSChallenge.Domain/obj
+src/ATSChallenge.Infra.CrossCutting/bin
+src/ATSChallenge.Infra.CrossCutting/obj
+src/ATSChallenge.Infra.Data/bin
+src/ATSChallenge.Infra.Data/obj
+src/ATSChallenge.Service/bin
+src/ATSChallenge.Service/obj
